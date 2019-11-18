@@ -5,6 +5,7 @@ public class Test {
     public void say(){
 
         System.out.println("hello git");
+        System.out.println("xiugaihou");
     }
 
 
